@@ -3,6 +3,7 @@
 ### Just a simple Slack Bot written in Java.
 
 WORK IN PROGRESS...
+<br />
 
 1. Export your bot token
 
