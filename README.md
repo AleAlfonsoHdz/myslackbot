@@ -15,6 +15,6 @@ export SLACK_BOT_TOKEN=xoxb-...
 2. Send a message given the user's email
 
 ````
-java -jar target/SlackMessage-1.0-SNAPSHOT-jar-with-dependencies.jar <email> <message>
+java -jar target/MySlackBot-1.0-SNAPSHOT-jar-with-dependencies.jar <email> <message>
 
 ````
